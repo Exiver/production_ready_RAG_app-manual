@@ -1,0 +1,12 @@
+streamlit>=1.38
+pypdf>=5.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy>=1.26,<2.0
+pandas>=2.2
+requests>=2.31
+ragas>=0.4,<0.5
+langchain-huggingface>=0.1
+langchain-google-genai>=2.0
+langchain-ollama>=0.2
+google-generativeai>=0.8
